@@ -1,6 +1,7 @@
 import React from 'react'
 
-const ProjectCard = (props) => {
+const 
+ProjectCard = (props) => {
     return (
         <>
             <div className='lg:w-1/2 group transition-all relative rounded-none hover:rounded-[70px] overflow-hidden h-full '>
